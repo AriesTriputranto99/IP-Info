@@ -288,3 +288,5 @@ Copy
   }
   ...
 }
+
+## [Apache License](http://www.apache.org/licenses/)
